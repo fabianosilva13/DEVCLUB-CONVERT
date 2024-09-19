@@ -12,3 +12,4 @@
 - <img src="https://img.icons8.com/?size=100&id=102838&format=png&color=000000" alt="js-logo" />
 <br>
 <img src="https://github.com/fabianosilva13/DEVCLUB-CONVERT/blob/main/assets/captura-convert.png?raw=true" />
+  <p>muito obrigado <a>DevClub</a></p> :raised_hands:
