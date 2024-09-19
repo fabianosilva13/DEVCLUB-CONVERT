@@ -6,7 +6,8 @@
 <br>
 <h3>tecnologias utilizadas !</h3>
 <br>
-<p><b>-HTML</b></p>
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <p><b>-CSS</b></p>
 <p><b>-JS</b></p>
 <br>
